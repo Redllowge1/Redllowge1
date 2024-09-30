@@ -52,7 +52,7 @@ Sono **Redllowge**, un **Web Developer** e **Web Designer** specializzato nella 
 
 ### 🎥 **PRESENTAZIONI VIDEO:**
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=linktuovideo"><img src="https://img.shields.io/badge/YouTube-Project%20Showcase-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.youtube.com/watch?v=linktuovideo"><img src="https://img.shields.io/badge/YouTube-Video%20Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ---
