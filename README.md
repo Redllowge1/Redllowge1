@@ -21,79 +21,61 @@
 
 ---
 
-## ✨⌞ Informazioni su di me ⌝
+## ✨⌞ INFORMAZIONI SU DI ME ⌝
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"/>
-</p>
+![center (4)](https://github.com/user-attachments/assets/8f0d0f23-e7ad-4121-878e-1bb035c0a8b2)
 
-**〢 Hello!** My name is **Nome Cognome** and I am a passionate tech enthusiast with a strong creative side. I combine my love for web development and graphic design to craft unique and functional digital experiences. When I'm not coding, I love to draw and experiment with new technologies to bring my visions to life.
 
-### 🌟 **Objectives**:
-- 👨‍💻 Build intuitive and modern web applications.
-- ✨ Design captivating interfaces that stand out.
-- 🖌️ Elevate design with animations and interactivity.
+Sono **Redllowge**, un **Web Developer** e **Web Designer** specializzato nella creazione e gestione di **siti web**. Coltivo anche una grande passione per il disegno. Per qualsiasi richiesta o informazione, non esitare a contattarmi!
 
----
-
-## 💼⌞ What I Do ⌝
-
-**〢 Web Developer:**
-- 🔹 Develop responsive websites optimized for all devices.
-- 🔹 Use modern technologies such as **React**, **Node.js**, and **Vue.js**.
-
-**〢 Web Designer:**
-- 🔹 Create custom layouts with **Figma** and **Adobe XD**.
-- 🔹 Bring designs to life with **CSS3** and **SVG** animations.
+### 🌟 **PREZZI BASICI**:
+- 💵 [ Sito web basico ] 15 €
+- ✨ [ Portfolio ] 10 euro
+- 💷 [ Server Minecraft Website ] 20 €
+- 🖌️ [ Disegno ] 7,99 €
+- 🎨 [ OC / PFP ] 5 €
+- 🖼️ [ Background /  ] 5 €
 
 ---
 
-## 🎨⌞ My Portfolio ⌝
+## 🎨⌞ IL MIO PORTFOLIO ⌝
 
-### 🖼️ **Design Projects**
-<p align="center">
-  <img src="https://media.giphy.com/media/26uflG0vGPQupowKk/giphy.gif" width="400"/>
-</p>
+### 🖼️ **SITI WEB:**
 
-- **Project 1:** _"E-Commerce Website"_
-  - 💡 A React-based e-commerce platform with custom SVG animations.
-  - 🔗 [View Project](https://username.github.io/ecommerce)
+- **In arrivo!:** _"..."_
+  - 💡 In arrivo!
+  - 🔗 [View Project]()
 
-- **Project 2:** _"Creative Agency Landing Page"_
-  - 💡 An animated, fully responsive landing page.
-  - 🔗 [View Project](https://username.github.io/landingpage)
+- **In arrivo!:** _"..."_
+  - 💡 In arrivo!
+  - 🔗 [View Project]()
 
-### 🎥 **Video Presentations**
+### 🎥 **PRESENTAZIONI VIDEO:**
 <p align="center">
   <a href="https://www.youtube.com/watch?v=linktuovideo"><img src="https://img.shields.io/badge/YouTube-Project%20Showcase-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ---
 
-## 🔥⌞ Technical Skills ⌝
+## 🔥⌞ USO DEI LINGUAGGI PRINCIPALI: ⌝
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> 
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white" />
 </p>
 
 ---
 
-## 📬⌞ Contact Me ⌝
+  - Per maggiori informazioni sui linguaggi di programmazione, contattami!
+
+## 📬⌞ CONTATTAMI! ⌝
 
 <p align="center">
-  💌 If you'd like to collaborate or just want to say hello, feel free to send me an email at <a href="mailto:tuaemail@domain.com">tuaemail@domain.com</a>! <br/>
-  💼 Or connect with me on <a href="https://www.linkedin.com/in/username">LinkedIn</a>!
+  💌 Se devi contattarmi o solamente sapere di più riguardo ai miei siti, contattami: <a href="mailto:redllowge@gmail.com">redllowge@gmail.com</a>! <br/>
+  💼 O altrimenti contattami sul mio server: <a href="https://discord.gg/qTsxcdu7N8">Discord</a>!
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+💖" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l2SpM6gdY7C5qCO7y/giphy.gif" width="150"/>
 </p>
