@@ -10,9 +10,8 @@
 ---
 
 <p align="center">
-  📬 &nbsp; <a href="redllowge@gmail.com">Email</a> &nbsp;•&nbsp; 
+  • 📬 &nbsp; <a href="mailto:redllowge@gmail.com">Email</a> &nbsp;•&nbsp; 
   🌐 &nbsp; <a href="">Sito Web</a> &nbsp;•&nbsp;
-  📁 &nbsp; <a href="https://github.com/redllowge1">GitHub</a>
 </p>
 
 <p align="center">
@@ -28,17 +27,19 @@
 
 Sono **Redllowge**, un **Web Developer** e **Web Designer** specializzato nella creazione e gestione di **siti web**. Coltivo anche una grande passione per il disegno. Per qualsiasi richiesta o informazione, non esitare a contattarmi!
 
-### 🌟 **PREZZI BASICI**:
+## 🌟 ⌞ COSTO DEI SITI WEB ⌝
+### SITI WEB:
 - 💵 [ Sito web basico ] 15 €
 - ✨ [ Portfolio ] 10 euro
 - 💷 [ Server Minecraft Website ] 20 €
+### DISEGNI: 
 - 🖌️ [ Disegno ] 7,99 €
 - 🎨 [ OC / PFP ] 5 €
 - 🖼️ [ Background /  ] 5 €
 
 ---
 
-## 🎨⌞ IL MIO PORTFOLIO ⌝
+## 🎨 ⌞ IL MIO PORTFOLIO ⌝
 
 ### 🖼️ **SITI WEB:**
 
@@ -50,11 +51,6 @@ Sono **Redllowge**, un **Web Developer** e **Web Designer** specializzato nella 
   - 💡 In arrivo!
   - 🔗 [View Project]()
 
-### 🎥 **PRESENTAZIONI VIDEO:**
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=linktuovideo"><img src="https://img.shields.io/badge/YouTube-Video%20Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</p>
-
 ---
 
 ## 🔥⌞ USO DEI LINGUAGGI PRINCIPALI: ⌝
@@ -65,9 +61,9 @@ Sono **Redllowge**, un **Web Developer** e **Web Designer** specializzato nella 
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> 
 </p>
 
----
+- E ALTRO ANCORA!!!
 
-  - Per maggiori informazioni sui linguaggi di programmazione, contattami!
+---
 
 ## 📬⌞ CONTATTAMI! ⌝
 
@@ -77,5 +73,5 @@ Sono **Redllowge**, un **Web Developer** e **Web Designer** specializzato nella 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+💖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=CI+VEDIAMO+IN+GIRO+!+💖" alt="Typing SVG" />
 </p>
